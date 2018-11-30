@@ -71,7 +71,7 @@
   name = "github.com/Masterminds/sprig"
 
 [[constraint]]
-  name = "github.com/Sirupsen/logrus"
+  name = "github.com/sirupsen/logrus"
   version = "0.11.0"
 
 [[constraint]]
